@@ -1,0 +1,17 @@
+.App {
+  background-color: violet;
+  width: 100vw;
+  height: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img{
+  width: 350px;
+}
+
+button{
+  background-color: transparent;
+  border: none;
+}
